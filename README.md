@@ -150,15 +150,16 @@ Skills 提供思考、规划、记录与审计规则。实际检索、数据处�
 
 **每个实际保存的 skill 版本单独创建一个 commit。** research-workflow 的版本继续提交到同一路径，通过 commit 与标签查看历史，避免把不同版本合并在一次提交中。修改 skill 内容时同步 `manifest.json`；README 等说明性更新可以单独提交。
 
-目前找到的 research-workflow 三个快照已分别导入。`snapshot-1/2/3` 表示本次导入次序；提交日期为 2026-10-20 的导入时间，不代表最初编写时间。其他两个 skill 各找到一个当前版本。
+research-workflow 的前三个历史快照已分别导入；第四版明确补充了深入理解原理与理论的原则。`snapshot-1/2/3/4` 是仓库快照编号，前三次提交记录的是导入时间，不代表最初编写时间。其他两个 skill 各找到一个当前版本。
 
 | 快照 | 内容 | Commit |
 | --- | --- | --- |
 | snapshot-1 | 整合前工作区快照 | [`a459f73`](https://github.com/fanniuzhan/research-mindset/commit/a459f730ffa4c0cf76e83ad4f104a5467f969542) |
 | snapshot-2 | 整合前安装快照 | [`eeb72d7`](https://github.com/fanniuzhan/research-mindset/commit/eeb72d78798e9a54332b16d496da9f6b753671ff) |
-| snapshot-3 | 课堂方法与实验设计整合后的当前快照 | [`9edf87d`](https://github.com/fanniuzhan/research-mindset/commit/9edf87d2b9d7f94bb18e6d1133bf10edcd65a251) |
+| snapshot-3 | 课堂方法与实验设计整合快照 | [`9edf87d`](https://github.com/fanniuzhan/research-mindset/commit/9edf87d2b9d7f94bb18e6d1133bf10edcd65a251) |
+| snapshot-4 | 明确原理、理论依据、假设与边界的理解原则 | [`1fd039c`](https://github.com/fanniuzhan/research-mindset/commit/1fd039cf4f93d64e285513bb3963742d939c90e8) |
 
-可通过对应的 `research-workflow-snapshot-1/2/3` 标签浏览完整目录，或查看某个历史文件：
+可通过对应的 `research-workflow-snapshot-1/2/3/4` 标签浏览完整目录，或查看某个历史文件：
 
 ```bash
 git show <commit>:skills/research-workflow/SKILL.md

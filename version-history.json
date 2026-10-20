@@ -17,6 +17,12 @@
       "description": "课堂方法与实验设计整合后的当前快照",
       "commit": "9edf87d2b9d7f94bb18e6d1133bf10edcd65a251",
       "source": "skills/research-workflow"
+    },
+    {
+      "snapshot": "snapshot-4",
+      "description": "明确原理、理论依据、假设与边界的理解原则",
+      "commit": "1fd039cf4f93d64e285513bb3963742d939c90e8",
+      "source": "research-workflow-snapshot-4"
     }
   ]
 }
