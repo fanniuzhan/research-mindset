@@ -1,0 +1,22 @@
+{
+  "research-workflow": [
+    {
+      "snapshot": "snapshot-1",
+      "description": "整合前工作区快照",
+      "commit": "a459f730ffa4c0cf76e83ad4f104a5467f969542",
+      "source": "versions/research-workflow/pre-integration-workspace"
+    },
+    {
+      "snapshot": "snapshot-2",
+      "description": "整合前安装快照",
+      "commit": "eeb72d78798e9a54332b16d496da9f6b753671ff",
+      "source": "versions/research-workflow/pre-integration-installed"
+    },
+    {
+      "snapshot": "snapshot-3",
+      "description": "课堂方法与实验设计整合后的当前快照",
+      "commit": "9edf87d2b9d7f94bb18e6d1133bf10edcd65a251",
+      "source": "skills/research-workflow"
+    }
+  ]
+}
