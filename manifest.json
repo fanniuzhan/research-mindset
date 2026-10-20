@@ -1,0 +1,132 @@
+{
+  "imported_on": "2026-10-20",
+  "notes": "Available snapshots imported sequentially. Commit dates are import dates, not original authoring dates.",
+  "snapshots": [
+    {
+      "skill": "google-ml-research",
+      "path": "skills/google-ml-research",
+      "role": "version-in-this-commit",
+      "sources": [
+        "codex"
+      ],
+      "content_sha256": "edadebae05429fbf6e688a2fb407521172ccb7909564493ebd6c85cedb7a37c1",
+      "files": [
+        {
+          "path": "SKILL.md",
+          "sha256": "0d7e6a50b21e70d20b4aaadc1980c189dae754ab40b913bf1279905a7ef8f6b1",
+          "bytes": 8920
+        },
+        {
+          "path": "agents/openai.yaml",
+          "sha256": "8b29c0c5501a8d4913deff1dc6773904b081f6a0818eaed929228253d617d25d",
+          "bytes": 288
+        },
+        {
+          "path": "references/course-principles.md",
+          "sha256": "1e7cc5a2f346242dcd2f8b33882fb8126bbbf504dccdb7477891cf6c35d589d5",
+          "bytes": 9036
+        },
+        {
+          "path": "references/eeg-research.md",
+          "sha256": "9a2b81b55adfefb4cf0ce5a3cfe82db465c85fdca9c64332d357465c78eab1d1",
+          "bytes": 4595
+        }
+      ],
+      "source_snapshot": "skills/google-ml-research"
+    },
+    {
+      "skill": "research-data-thinking",
+      "path": "skills/research-data-thinking",
+      "role": "version-in-this-commit",
+      "sources": [
+        "codex"
+      ],
+      "content_sha256": "ed76f058bac718f30dae5149be80a80286fe9f171ff2e2a322be3d1fc0d56593",
+      "files": [
+        {
+          "path": "SKILL.md",
+          "sha256": "198984edb0923ebd9bf3dbf6a596642ced28e8ee045989a29a2123c49bb4e995",
+          "bytes": 8755
+        },
+        {
+          "path": "agents/openai.yaml",
+          "sha256": "f31eb4c3a4841e3a941a285f6886848202ba71cd50722fd94ef3da9e9f56d3f7",
+          "bytes": 357
+        },
+        {
+          "path": "references/decision-sheet.md",
+          "sha256": "a29cce28c745c8d14b37fb46271a2314b5e4b16f6144d33373d50f093e9a1565",
+          "bytes": 3443
+        },
+        {
+          "path": "references/eeg-transfer.md",
+          "sha256": "904c52ca05f396789d6d53860f8c5e014ab05d9de8d2ebc3d58546487746c0dd",
+          "bytes": 4022
+        },
+        {
+          "path": "references/source-basis.md",
+          "sha256": "327cbcf69b2f43e83bf84130403b77f7bfb3522e78d5fece18f6d607e8781974",
+          "bytes": 4261
+        }
+      ],
+      "source_snapshot": "skills/research-data-thinking"
+    },
+    {
+      "skill": "research-workflow",
+      "path": "skills/research-workflow",
+      "role": "version-in-this-commit",
+      "sources": [
+        "pre-integration-workspace"
+      ],
+      "content_sha256": "ca09cd52d141b8d37c39403c29a4d89f05df4d86da60e81ac7344e3ee556d400",
+      "files": [
+        {
+          "path": "SKILL.md",
+          "sha256": "832aa662b5074d761af6727719db75d8bfc5180de071d34ce5aad235f938ad42",
+          "bytes": 10798
+        },
+        {
+          "path": "agents/openai.yaml",
+          "sha256": "151b0571485f7c52133d4b697a21ce555597d9c6e50626f02d2e78ab6d480b6d",
+          "bytes": 338
+        },
+        {
+          "path": "assets/templates/data.md",
+          "sha256": "491e5c2e9d33d403e80137ef68a7fba9c18363a3eb7cb6c8941595aadb2f595a",
+          "bytes": 913
+        },
+        {
+          "path": "assets/templates/decisions.md",
+          "sha256": "5598ae7e8a7bf991127dc00b572445899cc8d62629c4e7be7447cb2bd7c29341",
+          "bytes": 614
+        },
+        {
+          "path": "assets/templates/experiment.md",
+          "sha256": "177832ceff67eccc98462c01c108f2ee7455c40f349be6028194c837180961a5",
+          "bytes": 1718
+        },
+        {
+          "path": "assets/templates/literature.md",
+          "sha256": "c2a4c1bbe8e0662bdd796bb42ef0b179b713be9885f8ea1dabdc076b8aa35c0f",
+          "bytes": 1882
+        },
+        {
+          "path": "assets/templates/project.md",
+          "sha256": "6c61ed1c48f6151cd07df6c7ba8581f51b0690ccd83145d47864bfd1eafe737b",
+          "bytes": 1664
+        },
+        {
+          "path": "references/framework.md",
+          "sha256": "3e035f44e1fae07499972a45fbf497067a8b2d12cf9521983a9cf5004bd3e8d4",
+          "bytes": 12074
+        },
+        {
+          "path": "references/ml-design.md",
+          "sha256": "ea6a85707b2b013b1b69504e780837778669e54e7205498b2f20c430b10ba703",
+          "bytes": 8069
+        }
+      ],
+      "source_snapshot": "versions/research-workflow/pre-integration-workspace"
+    }
+  ]
+}

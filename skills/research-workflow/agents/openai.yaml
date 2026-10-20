@@ -1,0 +1,4 @@
+interface:
+  display_name: "科研思维与流程"
+  short_description: "从上位问题到实验与证据，梳理课题阶段和下一步，并按需维护科研记录"
+  default_prompt: "使用 $research-workflow，结合已有资料判断我的课题阶段，梳理关键未知、下一步行动，并按需更新科研记录。"

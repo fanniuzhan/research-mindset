@@ -1,0 +1,4 @@
+interface:
+  display_name: "Google ML Research"
+  short_description: "Frame research questions and design informative ML experiments"
+  default_prompt: "Use $google-ml-research to clarify my research question, identify evidence gaps, and design the most informative next experiment."

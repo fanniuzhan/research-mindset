@@ -1,0 +1,4 @@
+interface:
+  display_name: "科研数据处理思维"
+  short_description: "连接研究问题、测量、清理、异常调查与验证，形成可审计的数据决定"
+  default_prompt: "请使用 $research-data-thinking，分析我当前的数据处理问题，核对测量与数据单位，提出有证据依据的处理决定和最小验证方案。"
