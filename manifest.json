@@ -76,14 +76,14 @@
       "path": "skills/research-workflow",
       "role": "version-in-this-commit",
       "sources": [
-        "pre-integration-installed"
+        "codex"
       ],
-      "content_sha256": "6f2e06b922d471d6c392096dba8bb9f43d361a71fd6e6a02793214165d076f85",
+      "content_sha256": "3f94ea30146778bb3d5239e9787a29d651daa80f796f4f6931f0d488795d61bc",
       "files": [
         {
           "path": "SKILL.md",
-          "sha256": "a64e980ee09d4d555ce8312e4609c21a26d418fa2a6bac6ff59871b1b66f38bd",
-          "bytes": 14277
+          "sha256": "63254abc711e5fb8df9c06c6304d6cddc06f9471d9ee385180a2924a78045816",
+          "bytes": 16109
         },
         {
           "path": "agents/openai.yaml",
@@ -92,8 +92,8 @@
         },
         {
           "path": "assets/templates/data.md",
-          "sha256": "491e5c2e9d33d403e80137ef68a7fba9c18363a3eb7cb6c8941595aadb2f595a",
-          "bytes": 913
+          "sha256": "4df8aa8457991cb0a9253094cc4d741011fe03c4eb72bba78a6fb1a9899f9209",
+          "bytes": 1799
         },
         {
           "path": "assets/templates/decisions.md",
@@ -102,13 +102,13 @@
         },
         {
           "path": "assets/templates/experiment.md",
-          "sha256": "8b39d3a032f6b0176518a180fcff4e3c57ba7cb971631575026d28a7d580abfc",
-          "bytes": 2178
+          "sha256": "6cd572520ff2a553baa1823718419df8293a6230c1b87bb148a95a135af07bdf",
+          "bytes": 3208
         },
         {
           "path": "assets/templates/literature.md",
-          "sha256": "62b1b84c2c3770d938e9ee947fb7427ee3cd4f1943cf784e620eb2ecd897a805",
-          "bytes": 3938
+          "sha256": "0a820930febce1ec7816d4dc5e05950463a41d663067baaf87217a6f97aa69a7",
+          "bytes": 4156
         },
         {
           "path": "assets/templates/project.md",
@@ -116,22 +116,32 @@
           "bytes": 2854
         },
         {
+          "path": "references/experimental-design.md",
+          "sha256": "9701a012ba19d4f982c14e52144b29fe5ff6f25d28650c4c72d4652fd91dc180",
+          "bytes": 7782
+        },
+        {
           "path": "references/framework.md",
-          "sha256": "4561ba49be73d5bc02ee6b436e057a248c7e7a8ec863b3325cf56060f1e62614",
-          "bytes": 13580
+          "sha256": "aa2d1829b9348d4c048be3c10667164baf454536e78b308941f6750ca2b66f28",
+          "bytes": 15158
         },
         {
           "path": "references/literature-reasoning.md",
-          "sha256": "f4dce4ea33c27d7d49082480099c911a21e7e8a6114494a863f2918cb95900e2",
-          "bytes": 7993
+          "sha256": "469daae810df825f34f06f7b0e200bcbb03506b83b0267d23ef2ce6dc30b5084",
+          "bytes": 8685
         },
         {
           "path": "references/ml-design.md",
-          "sha256": "ea6a85707b2b013b1b69504e780837778669e54e7205498b2f20c430b10ba703",
-          "bytes": 8069
+          "sha256": "21959714d872b72e49cfc178282fdbe01434d59cdfd7bd886f9b31fe05ab9298",
+          "bytes": 8755
+        },
+        {
+          "path": "references/research-practice.md",
+          "sha256": "19d66ab02342b51c98a9bd0472abdd954dd28f3b9ec3f4bb837c274ba99e7529",
+          "bytes": 4391
         }
       ],
-      "source_snapshot": "versions/research-workflow/pre-integration-installed"
+      "source_snapshot": "skills/research-workflow"
     }
   ]
 }
